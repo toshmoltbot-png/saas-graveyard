@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/saas-graveyard//_next/:path+",
+        "destination": "/saas-graveyard/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [

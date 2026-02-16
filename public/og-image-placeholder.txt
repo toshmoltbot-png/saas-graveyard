@@ -1,0 +1,5 @@
+Place your Open Graph image here as og-image.png (1200x630px)
+
+This should be a preview of the SaaS Graveyard card that will show when shared on social media.
+
+Recommended: Create a sample graveyard card and screenshot it.
